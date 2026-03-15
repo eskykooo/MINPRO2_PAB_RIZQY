@@ -137,6 +137,4 @@ Aplikasi ini dirancang dengan fokus pada kemudahan penggunaan dan desain UI yang
   - `deleteEvent(String id)`
 
 
-> Pastikan `supabaseUrl` dan `supabaseAnonKey` di `main.dart` valid dan tabel `events` sesuai schema.
-
 
